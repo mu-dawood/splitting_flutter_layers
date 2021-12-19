@@ -43,5 +43,7 @@
   # Domain layer
    + domain layer must not depend on any library it must
    + it must export only interfaces and the injection helpers
-   [1]: entities folder `contains all entities that may be needed in our app`
+
+   [1]: https://github.com/mo-ah-dawood/splitting_flutter_layers/tree/main/domain/lib/src/entities      entities 
+   - folder `contains all entities that may be needed in our app`
    - 
