@@ -83,3 +83,6 @@
     injector.registerLazySingleton<IMessenger>(() => MessengerImpl());
     injector.registerLazySingleton<INavigator>(() => NavigatorImpl());
    ```
+
+
+[x] Note you can add any layer you want the same way such as a layer for used plugins which in common called `platform`
